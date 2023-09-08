@@ -1,4 +1,4 @@
 # minesweeperbot
 
-Is a simple bot for minesweeper made in C and C++
+Is a simple bot for minesweeper made in C++
 
