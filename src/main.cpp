@@ -13,6 +13,8 @@ int main () {
 
   std::cout << "X: 0, Y: 1, V: " << board->getTile(0, 1)->getState() << '\n';
 
+  delete board;
+
   return 0;
 }
 
